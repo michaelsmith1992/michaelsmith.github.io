@@ -77,8 +77,8 @@ Another consideration on larger projects is adopting a naming convention for you
 
 ### Resources
 
-[fontawesome.io](http://fontawesome.io/) for icons
-[devicon](http://konpa.github.io/devicon/) for some lovely tech icons in particular
-[google fonts](https://fonts.google.com/) for easily implementable fonts
+* [fontawesome.io](http://fontawesome.io/) for icons
+* [devicon](http://konpa.github.io/devicon/) for some lovely tech icons in particular
+* [google fonts](https://fonts.google.com/) for easily implementable fonts
 
 We will endeavour to keep adding to this list as we come across things - please check back regularly or even submit a pull request if you find something interesting yourself!
