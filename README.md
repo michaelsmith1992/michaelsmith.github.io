@@ -2,7 +2,7 @@
 
 Welcome to Section 3!
 
-You are encouraged to make a start on this section before beginning the course, so you can start to develop your HTML and CSS skills. These are not a major part of the course, but you need to have some familiarity with them if you are to work in web development. There will be a few hours on the course which you can devote to this, but on the whole you will be reliant on your own research and self-learning.
+Now that you have completed Sections 1 and 2 it's important you dedicate as much time as you can to developing your HTML and CSS skills. You need to have some familiarity with them if you are to work in web development. It will also make portfolio pieces you show to companies stand out, regardless of which stack or language you ultimately use. There will be a few hours on the course dedicated to HTML and CSS, but you will largely reliant on your own research and self-learning.
 
 The aim of this Section is to end up with a simple, elegant and well-executed portfolio page that you can take away and perhaps publicise at the end of the course, with links to the projects you've created. Consider it a project in its own right - a way for you to advertise your skills in writing best-practise HTML and CSS.
 
@@ -43,11 +43,15 @@ For this section's final challenge, you need to demonstrate your HTML and CSS sk
 
 ### Steps
 
-1. Create your own GitHub repo for this task. Clone it to your computer.
-2. Create a structure inside this folder to hold your website assets. There's a guide on how to do this on [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files).
-3. Build your site! We suggest starting with the basic HTML structure, then bringing in CSS and any other JavaScript when you are happy with the content.
-4. Remember to add and commit your changes frequently as you work.
-5. When you're ready to show the world, you might want to look at [GitHub Pages](https://pages.github.com/) as a solution for deploying.
+1. Before you start any work on your portfolio site please watch the following videos:
+   * [Starting your Portfoio page](https://northcoders.wistia.com/medias/uqp2vm4czm)
+   * [Links, images and additional HTML](https://northcoders.wistia.com/medias/9orakqv2h6)
+
+2. Create your own GitHub repo for this task. Clone it to your computer.
+3. Create a structure inside this folder to hold your website assets. There's a guide on how to do this on [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files).
+4. Build your site! We suggest starting with the basic HTML structure, then bringing in CSS and any other JavaScript when you are happy with the content.
+5. Remember to add and commit your changes frequently as you work.
+6. When you're ready to show the world, you might want to look at [GitHub Pages](https://pages.github.com/) as a solution for deploying.
 
 ### Responsive Design
 
