@@ -18,8 +18,6 @@ There are loads of great HTML and CSS resources online, but the sheer volume of 
 
 * We like [this book](http://wtf.tw/ref/duckett.pdf) which is great value for the investment.
 
-* This freely available online book [How to code in HTML and CSS](http://howtocodeinhtml.com/) is also very good.
-
 * Some good HTML5 cheatsheets are available [here](https://websitesetup.org/html5-cheat-sheet/)
 
 * A great place to try out anything like this is [Codepen](https://codepen.io/). You can make your own stuff ('pens'), but have a look at what other people are up to too - great for inspiration.
