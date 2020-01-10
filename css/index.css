@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+a {
+  color: #6d7993;
+}
+
+body {
+  background-color: whitesmoke;
+}
+.header {
+  background-color: #96858f;
+  height: 80px;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.content-nav {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  color: #6d7993;
+}
+
+.mob-header {
+  display: none;
+  background-color: #96858f;
+  position: fixed;
+    width: 100%;
+}
+
+.mob-ham {
+  display: none;
+}
+
+#close,
+#hamburger {
+  color: whitesmoke;
+}
+
+.links-list {
+  list-style: none;
+  padding-top: 30px;
+  font-size: 20px;
+  padding-right: 40px;
+  color: whitesmoke;
+}
+
+.mob-links-list {
+  list-style: none;
+  padding-top: 20px;
+  font-size: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+ul.mob-links-list li {
+  padding-top: 10px;
+}
+
+
+.logo {
+  padding-top: 20px;
+  font-size: 30px;
+  padding-right: 20px;
+  font-weight: bolder;
+  padding-left: 40px;
+  color: whitesmoke;
+}
+ul.links-list li {
+  display: inline;
+  padding-left: 20px;
+}
+
+.about-container {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 7em;
+}
+
+.site-img{
+    display: block;
+    width: 100%;
+    overflow:hidden; /*hide bounds of image */
+    height: 35rem;
+ }
+ .site-img img{
+     margin-top: -30%;
+     margin-bottom: -20%;
+ }
+.about-container h1, .about-container h3 {
+    font-size: 4em;
+}
+.about-container p {
+    font-size: 2em;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:hover {
+    color: #6d7993;
+}
+
+.main-content {
+  height: 100%;
+  padding-left: 3.5em;
+  padding-right: 3.5em;
+  padding-top: 7em;
+}
+
+.bold-head {
+    font-weight: bolder;
+    text-align: center;
+}
+
+.skill-list {
+  list-style: none;
+  font-size: 100px;
+  color:#6d7993
+}
+
+.skill-list i:hover {
+    color: #96858f
+}
+
+ul.skill-list li {
+  display: inline;
+}
+ul,
+li {
+  padding: 0;
+}
+
+@media (max-width: 900px) {
+  .links {
+    display: none;
+  }
+  .mob-ham {
+    display: block;
+    padding-top: 30px;
+    font-size: 20px;
+    padding-right: 40px;
+    cursor: pointer;
+  }
+  .logo {
+    font-size: 20px;
+    padding-top: 30px;
+  }
+  .site-img {
+      display: none;
+  }
+  .main-content {
+    height: 100%;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 7em;
+  }
+}
